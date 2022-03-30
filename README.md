@@ -10,11 +10,18 @@
   </a>
 </div>
 
+<div>
+
+![Snake animation](https://github.com/adrianowead/adrianowead/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 <br>
 <hr>
 <br>
 
 # 31 coisas sobre o hacker que habita em mim
+## (TL;DR;)
 
 <br><br>
 ## 1. Todo começo é válido
