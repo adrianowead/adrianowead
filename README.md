@@ -4,9 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/adrianowead">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianowead&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,commits"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianowead&layout=compact&langs_count=7&theme=github_dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianowead&theme=github-dark-blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianowead&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,commits#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianowead&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=contribs,commits#gh-light-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianowead&layout=compact&langs_count=7&theme=github_dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianowead&layout=compact&langs_count=7&theme=default#gh-light-mode-only"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianowead&theme=github-dark-blue#gh-dark-mode-only"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianowead&theme=default#gh-light-mode-only"/>
   </a>
 </div>
 
@@ -261,7 +264,8 @@ Todos temos um passado:
 <p>Aqui no GitHub propriamente dito, minha atividade é modesta. As empresa ainda preferem soluções como Azure Repos (DevOps), mas tenho algumas medalhas de "honra ao mérito" expostas abaixo</p>
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adrianowead&theme=darkhub&title=MultiLanguage,Repositories,Commits,PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=adrianowead&theme=darkhub&title=MultiLanguage,Repositories,Commits,PullRequest#gh-dark-mode-only">
+<img src="https://github-profile-trophy.vercel.app/?username=adrianowead&theme=flat&title=MultiLanguage,Repositories,Commits,PullRequest#gh-light-mode-only">
 
 <br>
 
