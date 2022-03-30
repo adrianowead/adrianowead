@@ -3,6 +3,7 @@
 #### _A little bit_ sobre mim:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianowead&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,commits)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianowead&layout=compact&langs_count=7&theme=github_dark)
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=adrianowead&theme=github-dark-blue)
 
@@ -60,8 +61,10 @@ E o que seria do backend sem um banco de dados?
 Nem só de backend web vivem as aplicações, e quanto a mobile e desktop?
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-
-**ionic**
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
+![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)
 
 ## 6. Eu não preciso do backend, minas aplicações tem 2 bancos de dados!
 
@@ -82,7 +85,7 @@ Não podemos esquecer do maravilhoso _canivete suíço_, principalmete em aplica
 E como lidar com tantas bibliotecas e dependências nos projetos?
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-**composer**
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ## 20. Quebrou? joga fora!
@@ -152,14 +155,14 @@ Conhecimentos inesperados para um desenvolvedor _normal_, mas compreensível par
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-**maya**
+![Autodesk Maya](icons/maya.svg)
 
 ## 30. Eu era jovem e ingênuo
 
 Todos temos um passado:
 
 ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)
-**dos**
+![MS DOS](icons/ms-dos.svg)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ## 31. Moço, você trabalha com roupa?
