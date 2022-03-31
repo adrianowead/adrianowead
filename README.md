@@ -12,7 +12,7 @@
 # 31 coisas sobre o hacker que habita em mim
 ## (TL;DR;)
 
-## 1. Todo começo é válido
+## 1. Todo começo é válido. _Here we go!_
 
 Meu background é o mundo web, e como não poderia ser diferente tenho como base:
 
@@ -34,7 +34,7 @@ Claro, como carro chefe do backend:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## 3. Eu sei o que você mandou no request passado
+## 3. Eu sei o que você mandou no request passado. _I see you_
 
 Sou um profissional full stack, isso significa que também domino administração de servidores:
 
@@ -58,7 +58,7 @@ E o que seria do backend sem um banco de dados?
 
 
 ## 5. Conhecendo outros mundos
-Nem só de backend web vivem as aplicações, e quanto a mobile e desktop?
+Nem só de servidor e browsers vivem as aplicações, e quanto a mobile e desktop?
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
@@ -66,7 +66,7 @@ Nem só de backend web vivem as aplicações, e quanto a mobile e desktop?
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
 ![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)
 
-## 6. Eu não preciso do backend, minas aplicações tem 2 bancos de dados!
+## 6. Eu não preciso do backend, minhas aplicações tem 2 bancos de dados!
 
 Claro, também precisamos de persistência local nessas aplicações mobile e desktop:
 
@@ -75,7 +75,7 @@ Claro, também precisamos de persistência local nessas aplicações mobile e de
 
 ## 18. _Pau_ pra toda obra
 
-Não podemos esquecer do maravilhoso _canivete suíço_, principalmete em aplicações mobile:
+Não podemos esquecer do maravilhoso _canivete suíço_, seja para suporte ao mobile, seja para fazer aquele teste _maroto_ em nossas APIs:
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -102,21 +102,21 @@ Já que estamos falando em escalabilidade e desempenho, como dar aquele boost no
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
-## 22. Não fui eu
+## 22. "Não fui eu"
 
 Como garantir um controle em todas as alterações feitas nas aplicações?
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 23. Ninguém precisa ficar sabendo
+## 23. Ninguém precisa saber, isso fica apenas entre nós
 
 Quem nunca precisou de algo muito específico, mas que a sua linguagem favoria não atende? Qual seria sua escolha para essas horas difíceis?
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 24. WebSocket entrou na sala
+## 24. _"WebSocket_Bombado_21"_ entrou na sala
 
 E por falar em demanda específica, como resolver aquela comunicação realtime?
 
@@ -127,6 +127,7 @@ E por falar em demanda específica, como resolver aquela comunicação realtime?
 A comunicação assíncrona é essencial para o processamento de um grande volume de transações.
 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![gRPC](icons/grpc.svg)
 
 ## 26. Joguei o manual no lixo
 
@@ -157,22 +158,28 @@ Conhecimentos inesperados para um desenvolvedor _normal_, mas compreensível par
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Autodesk Maya](icons/maya.svg)
 
-## 30. Eu era jovem e ingênuo
+## 30. Eu era jovem e ingênuo, meu passado me condena
 
 Todos temos um passado:
 
 ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)
 ![MS DOS](icons/ms-dos.svg)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Macromedia Dreamweaver MX](icons/macromedia-dreamweaver-mx.svg)
 
 ## 31. Moço, você trabalha com roupa?
 
-Aqui no GitHub propriamente dito, minha atividade é modesta. As empresa ainda preferem soluções como Azure Repos (DevOps), mas tenho algumas medalhas de "honra ao mérito" expostas abaixo.
+Aqui no GitHub propriamente dito, minha atividade é modesta. As empresas ainda preferem soluções como Azure Repos (DevOps), mas tenho algumas medalhas de "honra ao mérito" expostas abaixo.
 
 ![Trofy](https://github-profile-trophy.vercel.app/?username=adrianowead&theme=darkhub&title=MultiLanguage,Repositories,Commits,PullRequest)
 
-E aí? Gostou do meu _profile_?
+E aí?
+Gostou do meu _profile_?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianowead)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriano.wead@gmail.com?subject=Ol%C3%A1%20Adriano%21)
+
+
+>_"Eu não preciso de críticas, preciso de tratamento"_
+— K. Sr.
