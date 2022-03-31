@@ -154,8 +154,11 @@ Se uma IDE não está disponível, como em um servidor sem GUI:
 Conhecimentos inesperados para um desenvolvedor _normal_, mas compreensível para quem adora tecnologia, independente da área de atuação:
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Autodesk Maya](icons/maya.svg)
 
 ## 30. Eu era jovem e ingênuo, meu passado me condena
@@ -169,7 +172,8 @@ Todos temos um passado:
 
 ## 31. Moço, você trabalha com roupa?
 
-Aqui no GitHub propriamente dito, minha atividade é modesta. As empresas ainda preferem soluções como Azure Repos (DevOps), mas tenho algumas medalhas de "honra ao mérito" expostas abaixo.
+Aqui no GitHub propriamente dito, minha atividade é modesta.
+As empresas ainda preferem soluções como Azure Repos (DevOps), mas tenho algumas medalhas de _"honra ao mérito"_ expostas abaixo.
 
 ![Trofy](https://github-profile-trophy.vercel.app/?username=adrianowead&theme=darkhub&title=MultiLanguage,Repositories,Commits,PullRequest)
 
@@ -180,6 +184,7 @@ Gostou do meu _profile_?
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriano.wead@gmail.com?subject=Ol%C3%A1%20Adriano%21)
 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/109468/adriano-maciel)
 
 >_"Eu não preciso de críticas, preciso de tratamento"_
 — K. Sr.
