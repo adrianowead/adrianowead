@@ -178,13 +178,22 @@ As empresas ainda preferem soluções como Azure Repos (DevOps), mas tenho algum
 ![Trofy](https://github-profile-trophy.vercel.app/?username=adrianowead&theme=darkhub&title=MultiLanguage,Repositories,Commits,PullRequest)
 
 E aí?
-Gostou do meu _profile_?
+Gostou do meu _profile_? 🥰
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianowead)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriano.wead@gmail.com?subject=Ol%C3%A1%20Adriano%21)
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/109468/adriano-maciel)
+
+Aceito:
+- um café ☕️
+- uma pizza 🍕
+- um taco 🌮
+- um abraço 🤗
+- etc...
+
+![PayPal](img/qr-code-donate.png) [![PayPal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=WW7N7R4Z5RA6A)
 
 >_"Eu não preciso de críticas, preciso de tratamento"_
 — K. Sr.
