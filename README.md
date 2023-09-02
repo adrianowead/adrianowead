@@ -129,6 +129,7 @@ Quem nunca precisou de algo muito específico, mas que a sua linguagem favoria n
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cplusplus&logoColor=3670A0)
 
 ## 15. _"WebSocket_Bombado_21"_ entrou na sala
 
