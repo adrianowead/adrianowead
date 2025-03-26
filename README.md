@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ 22 coisas sobre o hacker que habita em mim
+## ⚡ 7 coisas sobre o hacker que habita em mim
 
 ### 1️⃣ Todo começo é válido. _Here we go!_
 Meu background é o mundo web, e como não poderia ser diferente, minha base inclui:
