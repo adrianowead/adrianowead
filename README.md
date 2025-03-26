@@ -95,6 +95,6 @@ Sou apaixonado por tecnologia e sempre busco aprender algo novo. Vamos conversar
 
 📫 **Me encontre em:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrianowead)
-- 🐦 [Twitter](https://twitter.com/adrianowead)
+- 🐦 [X](https://x.com/adriano_wead)
 
 
